@@ -7406,9 +7406,8 @@ var _elm_lang$html$Html$summary = _elm_lang$html$Html$node('summary');
 var _elm_lang$html$Html$menuitem = _elm_lang$html$Html$node('menuitem');
 var _elm_lang$html$Html$menu = _elm_lang$html$Html$node('menu');
 
-var _user$project$SeatSaver$main = {
-	main: _elm_lang$html$Html$text('Hello from Elm')
-};
+var _user$project$SeatSaver$view = _elm_lang$html$Html$text('Woo hoo, I\'m in a View');
+var _user$project$SeatSaver$main = {main: _user$project$SeatSaver$view};
 
 var Elm = {};
 Elm['SeatSaver'] = Elm['SeatSaver'] || {};
